@@ -1,0 +1,10 @@
+C:\Users\WarpedDemon\Desktop\Messaging\UITest1\bin\Debug\UITest1.dll
+C:\Users\WarpedDemon\Desktop\Messaging\UITest1\bin\Debug\UITest1.pdb
+C:\Users\WarpedDemon\Desktop\Messaging\UITest1\bin\Debug\nunit.framework.dll
+C:\Users\WarpedDemon\Desktop\Messaging\UITest1\bin\Debug\Xamarin.UITest.dll
+C:\Users\WarpedDemon\Desktop\Messaging\UITest1\bin\Debug\nunit.framework.xml
+C:\Users\WarpedDemon\Desktop\Messaging\UITest1\bin\Debug\Xamarin.UITest.xml
+C:\Users\WarpedDemon\Desktop\Messaging\UITest1\obj\Debug\UITest1.csprojResolveAssemblyReference.cache
+C:\Users\WarpedDemon\Desktop\Messaging\UITest1\obj\Debug\UITest1.csproj.CoreCompileInputs.cache
+C:\Users\WarpedDemon\Desktop\Messaging\UITest1\obj\Debug\UITest1.dll
+C:\Users\WarpedDemon\Desktop\Messaging\UITest1\obj\Debug\UITest1.pdb

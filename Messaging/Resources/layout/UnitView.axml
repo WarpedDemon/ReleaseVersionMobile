@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <RelativeLayout
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/relativeLayout1">
+        <TextView
+            android:text="Unit - {UNIT_ID}"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/UnitPageTitle"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="20dip" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/relativeLayout2">
+        <TextView
+            android:text="Unit Id:"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/UnitIdLabel"
+            android:layout_marginLeft="30dip"
+            android:layout_marginTop="20dip" />
+        <TextView
+            android:text="{Unit_Id}"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/UnitIdLabel"
+            android:id="@+id/UnitId"
+            android:layout_marginTop="23dip"
+            android:layout_marginLeft="10dip" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/relativeLayout6">
+        <TextView
+            android:text="Unit Name:"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/UnitNameLabel"
+            android:layout_marginLeft="30dip"
+            android:layout_marginTop="20dip" />
+        <TextView
+            android:text="{Unit_Name}"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/UnitNameLabel"
+            android:id="@+id/UnitName"
+            android:layout_marginTop="23dip"
+            android:layout_marginLeft="10dip" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/relativeLayout3">
+        <TextView
+            android:text="Unit Lecturer:"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/UnitLecturerLabel"
+            android:layout_marginLeft="30dip"
+            android:layout_marginTop="20dip" />
+        <TextView
+            android:text="{Unit_Lecturer}"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/UnitLecturerLabel"
+            android:id="@+id/UnitLecturer"
+            android:layout_marginTop="23dip"
+            android:layout_marginLeft="10dip" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/relativeLayout4">
+        <TextView
+            android:text="Unit Start Date:"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/UnitStartDateLabel"
+            android:layout_marginLeft="30dip"
+            android:layout_marginTop="20dip" />
+        <TextView
+            android:text="{Unit_Start_Date}"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/UnitStartDateLabel"
+            android:id="@+id/UnitStartDate"
+            android:layout_marginTop="23dip"
+            android:layout_marginLeft="10dip" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/relativeLayout5">
+        <TextView
+            android:text="Unit End Date:"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/UnitEndDateLabel"
+            android:layout_marginLeft="30dip"
+            android:layout_marginTop="20dip" />
+        <TextView
+            android:text="{Unit_End_Date}"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/UnitEndDateLabel"
+            android:id="@+id/UnitEndDate"
+            android:layout_marginTop="23dip"
+            android:layout_marginLeft="10dip" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/relativeLayout7">
+        <TextView
+            android:text="Unit Location:"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/UnitLocationLabel"
+            android:layout_marginLeft="30dip"
+            android:layout_marginTop="20dip" />
+        <TextView
+            android:text="{Unit_Location}"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/UnitLocationLabel"
+            android:id="@+id/UnitLocation"
+            android:layout_marginTop="23dip"
+            android:layout_marginLeft="10dip" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/relativeLayout8"
+        android:layout_marginTop="180dip">
+        <ImageButton
+            android:src="@android:drawable/ic_menu_close_clear_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/UnitViewBackButton"
+            android:layout_marginLeft="20dip" />
+    </RelativeLayout>
+</LinearLayout>

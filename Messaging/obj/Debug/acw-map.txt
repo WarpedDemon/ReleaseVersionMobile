@@ -1,0 +1,32 @@
+Messaging.UnitsAdapter, Messaging;md52d8426f88d60f9bcdb58df3cbebf9c4a.UnitsAdapter
+Messaging.UnitsAdapter, Messaging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52d8426f88d60f9bcdb58df3cbebf9c4a.UnitsAdapter
+Messaging.UnitsAdapter;md52d8426f88d60f9bcdb58df3cbebf9c4a.UnitsAdapter
+messaging.UnitsAdapter;md52d8426f88d60f9bcdb58df3cbebf9c4a.UnitsAdapter
+Messaging.Unit, Messaging;md52d8426f88d60f9bcdb58df3cbebf9c4a.Unit
+Messaging.Unit, Messaging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52d8426f88d60f9bcdb58df3cbebf9c4a.Unit
+Messaging.Unit;md52d8426f88d60f9bcdb58df3cbebf9c4a.Unit
+messaging.Unit;md52d8426f88d60f9bcdb58df3cbebf9c4a.Unit
+Messaging.Contact, Messaging;md52d8426f88d60f9bcdb58df3cbebf9c4a.Contact
+Messaging.Contact, Messaging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52d8426f88d60f9bcdb58df3cbebf9c4a.Contact
+Messaging.Contact;md52d8426f88d60f9bcdb58df3cbebf9c4a.Contact
+messaging.Contact;md52d8426f88d60f9bcdb58df3cbebf9c4a.Contact
+Messaging.ContactsAdapter, Messaging;md52d8426f88d60f9bcdb58df3cbebf9c4a.ContactsAdapter
+Messaging.ContactsAdapter, Messaging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52d8426f88d60f9bcdb58df3cbebf9c4a.ContactsAdapter
+Messaging.ContactsAdapter;md52d8426f88d60f9bcdb58df3cbebf9c4a.ContactsAdapter
+messaging.ContactsAdapter;md52d8426f88d60f9bcdb58df3cbebf9c4a.ContactsAdapter
+Messaging.MainActivity, Messaging;md52d8426f88d60f9bcdb58df3cbebf9c4a.MainActivity
+Messaging.MainActivity, Messaging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52d8426f88d60f9bcdb58df3cbebf9c4a.MainActivity
+Messaging.MainActivity;md52d8426f88d60f9bcdb58df3cbebf9c4a.MainActivity
+messaging.MainActivity;md52d8426f88d60f9bcdb58df3cbebf9c4a.MainActivity
+Messaging.MessageAdapter, Messaging;md52d8426f88d60f9bcdb58df3cbebf9c4a.MessageAdapter
+Messaging.MessageAdapter, Messaging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52d8426f88d60f9bcdb58df3cbebf9c4a.MessageAdapter
+Messaging.MessageAdapter;md52d8426f88d60f9bcdb58df3cbebf9c4a.MessageAdapter
+messaging.MessageAdapter;md52d8426f88d60f9bcdb58df3cbebf9c4a.MessageAdapter
+Messaging.MessageObject, Messaging;md52d8426f88d60f9bcdb58df3cbebf9c4a.MessageObject
+Messaging.MessageObject, Messaging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52d8426f88d60f9bcdb58df3cbebf9c4a.MessageObject
+Messaging.MessageObject;md52d8426f88d60f9bcdb58df3cbebf9c4a.MessageObject
+messaging.MessageObject;md52d8426f88d60f9bcdb58df3cbebf9c4a.MessageObject
+Messaging.MyListViewAdapter, Messaging;md52d8426f88d60f9bcdb58df3cbebf9c4a.MyListViewAdapter
+Messaging.MyListViewAdapter, Messaging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52d8426f88d60f9bcdb58df3cbebf9c4a.MyListViewAdapter
+Messaging.MyListViewAdapter;md52d8426f88d60f9bcdb58df3cbebf9c4a.MyListViewAdapter
+messaging.MyListViewAdapter;md52d8426f88d60f9bcdb58df3cbebf9c4a.MyListViewAdapter
